@@ -80,13 +80,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/Tavares-ltc/Tavares-ltc/blob/output/snake.svg" alt="Snake animation" />
-
-
-  
-
-
-&nbsp;
 
 <div align="center">
 
