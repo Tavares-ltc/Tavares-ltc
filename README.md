@@ -3,7 +3,7 @@
 
   
 
-### <div align="left">I'm Lucas, a software engineer and full-stack developer 👨‍💻 , solve problems with code makes me happy 😁 and learn with them makes me satisfied 😊.</div>  
+### <div align="left">I'm Lucas, a software engineer and full-stack developer 👨‍💻, solving problems with code makes me happy 😁 and learn with them makes me satisfied 😊.</div>  
 
 
 <br/>  
