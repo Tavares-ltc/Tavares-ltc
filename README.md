@@ -16,7 +16,7 @@
  
  - 📫 How to reach me: [l.tavaresc@hotmail.com](mailto:l.tavaresc@hotmail.com);
 
- - ⚡ Fun fact: [object Object]
+ - ⚡ Fun fact: Já trabalhei fotografando bandas!
  
  <br>
 
