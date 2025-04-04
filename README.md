@@ -14,9 +14,8 @@
  - 😄 Pronouns: he/him
 
  
- - 📫 How to reach me: [l.tavaresc@hotmail.com](mailto:l.tavaresc@hotmail.com);
+ - 📫 How to reach me: [	l.tavares.dev@gmail.com](mailto:l.tavares.dev@gmail.com);
 
- - ⚡ Fun fact: Já trabalhei fotografando bandas!
  
  <br>
 
